@@ -1,9 +1,12 @@
-# 👋 Hi, I’m @RavenTheory
+# RavenTheory
 
-- 🔭 I’m passionate about **physics** and **problem-solving**.  
-- 💻 My [LeetCode profile](https://leetcode.com/u/RavenTheory/) includes solutions to **MySQL database problems** solved for practice.  
-- ✍️ I enjoy applying logical thinking to solve technical challenges.  
-- 📫 Reach me via email at **shankar.299792458@gmail.com**.  
+Currently learning string theory.
+
+Email: shankar.299792458@gmail.com or shankar.bhandari.phys@proton.me
+(mostly for physics-related stuff.)
+
+Website: [raventheory.github.io](https://raventheory.github.io)
+
 
 
 <!---
